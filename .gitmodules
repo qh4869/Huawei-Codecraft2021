@@ -1,0 +1,9 @@
+[submodule "Huawei_Final"]
+	path = Huawei_Final
+	url = git@github.com:qh4869/Huawei_Final.git
+[submodule "Huawei_PK"]
+	path = Huawei_PK
+	url = git@github.com:qh4869/Huawei_PK.git
+[submodule "2021HWAutoGrader"]
+	path = 2021HWAutoGrader
+	url = git@github.com:qh4869/2021HWAutoGrader.git
